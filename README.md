@@ -72,7 +72,7 @@
 ### 🛍️ Product Management (Admin)
 | Add Product | View Products | Update Stock |
 |-------------|---------------|--------------|
-| ![Add Product](Screenshots_application/admin_add.png) | ![Product List](Screenshots_application/View.png) | ![Stock Update](Screenshots_application/addstock.png) |
+| ![Add Product](Screenshots_application/addProduct.png.png) | ![Product List](Screenshots_application/View.png) | ![Stock Update](Screenshots_application/addstock.png) |
 
 ### 🛍️ User Management (Admin)
 | View User | 
@@ -84,8 +84,6 @@
 |-----------------|-----------------|-------------|
 | ![Browse](Screenshots_application/customerview.png.png) | ![Search](Screenshots_application/SearchProduct.png) | ![Order](Screenshots_application/Order.png) |
 
-### 📊 Inventory Overview
-![Inventory Dashboard](screenshots/inventory.png)
 
 <h2>🚀 How to Run</h2>
 <ol>
