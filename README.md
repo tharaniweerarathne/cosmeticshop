@@ -88,7 +88,7 @@
 <h2>🚀 How to Run</h2>
 <ol>
   <li>Clone the repository</li>
-  <li>Open in Java IDE (NetBeans/Eclipse/IntelliJ)</li>
+  <li>Open in Java IDE (NetBeans)</li>
   <li>Run TharuCosmeticShop.java</li>
 </ol>
 
