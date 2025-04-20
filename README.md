@@ -55,7 +55,7 @@
 | ![Login](Screenshots_application/home.png) | 
 
 ### 🔐 Authentication
-| Login Screen | Registration Screen |
+| Login Screen | Registration Screen (Create Account) |
 |--------------|---------------------|
 | ![Login](Screenshots_application/login.png) | ![Register](Screenshots_application/register.png) |
 
