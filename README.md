@@ -49,7 +49,7 @@
 </ul>
 
 ## 📸 Application Screenshots
-### 🔐 Home Screen
+### 🏠 Home Screen
 | Home Screen | 
 |--------------|
 | ![Login](Screenshots_application/home.png) | 
@@ -59,20 +59,20 @@
 |--------------|---------------------|
 | ![Login](Screenshots_application/login.png) | ![Register](Screenshots_application/register.png) |
 
-### 🛍️ Admin Dashboard
+### 🛠️ Admin Dashboard
 | View User | 
 |-------------|
 | ![Add Product](Screenshots_application/adminPanel.png) |
 
-### 🛍️ Customer Dashboard
+### 👤 Customer Dashboard
 | View User | 
 |-------------|
 | ![Add Product](Screenshots_application/customer.png) |
 
 ### 🛍️ Product Management (Admin)
-| Add Product | View Products | Update Stock |
-|-------------|---------------|--------------|
-| ![Add Product](Screenshots_application/addProduct.png.png) | ![Product List](Screenshots_application/View.png) | ![Stock Update](Screenshots_application/addstock.png) |
+| Add Product | View Products | Update Stock | Delete Stock |
+|-------------|---------------|--------------|--------------|
+| ![Add Product](Screenshots_application/addProduct.png) | ![Product List](Screenshots_application/View.png) | ![Stock Update](Screenshots_application/addstock.png) | ![Stock Update](Screenshots_application/delete.png) |
 
 ### 🛍️ User Management (Admin)
 | View User | 
@@ -80,9 +80,9 @@
 | ![Add Product](Screenshots_application/user.png) |
 
 ### 🛒 Shopping Experience (Customer)
-| Browse Products | Search Products | Place Order |
+| View Products| Search Products | Place Order |
 |-----------------|-----------------|-------------|
-| ![Browse](Screenshots_application/customerview.png.png) | ![Search](Screenshots_application/SearchProduct.png) | ![Order](Screenshots_application/Order.png) |
+| ![Search](Screenshots_application/customerview.png)| ![Search](Screenshots_application/SearchProduct.png) | ![Order](Screenshots_application/Order.png) |
 
 
 <h2>🚀 How to Run</h2>
