@@ -48,6 +48,45 @@
   <li><strong>ArrayList</strong> for dynamic data storage</li>
 </ul>
 
+## 📸 Application Screenshots
+### 🔐 Home Screen
+| Home Screen | 
+|--------------|
+| ![Login](Screenshots_application/home.png) | 
+
+### 🔐 Authentication
+| Login Screen | Registration Screen |
+|--------------|---------------------|
+| ![Login](Screenshots_application/login.png) | ![Register](Screenshots_application/register.png) |
+
+### 🛍️ Admin Dashboard
+| View User | 
+|-------------|
+| ![Add Product](Screenshots_application/adminPanel.png) |
+
+### 🛍️ Customer Dashboard
+| View User | 
+|-------------|
+| ![Add Product](Screenshots_application/customer.png) |
+
+### 🛍️ Product Management (Admin)
+| Add Product | View Products | Update Stock |
+|-------------|---------------|--------------|
+| ![Add Product](Screenshots_application/admin_add.png) | ![Product List](Screenshots_application/View.png) | ![Stock Update](Screenshots_application/addstock.png) |
+
+### 🛍️ User Management (Admin)
+| View User | 
+|-------------|
+| ![Add Product](Screenshots_application/user.png) |
+
+### 🛒 Shopping Experience (Customer)
+| Browse Products | Search Products | Place Order |
+|-----------------|-----------------|-------------|
+| ![Browse](Screenshots_application/customerview.png.png) | ![Search](Screenshots_application/SearchProduct.png) | ![Order](Screenshots_application/Order.png) |
+
+### 📊 Inventory Overview
+![Inventory Dashboard](screenshots/inventory.png)
+
 <h2>🚀 How to Run</h2>
 <ol>
   <li>Clone the repository</li>
